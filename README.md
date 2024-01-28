@@ -1,4 +1,4 @@
-# eventify
+# eventify - where every event finds its stage
 
 A new Flutter project.
 
