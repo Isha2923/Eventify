@@ -2,6 +2,8 @@
 
 A new Flutter project.
 Eventify is a flutter app designed to manage events for attendees and organizations.
+
+
 Demo Video link -https://drive.google.com/file/d/12rPl5VjpLpgJyd_bJEupY4ZvQ6orgJdp/view?usp=sharing
 
 ## Getting Started
